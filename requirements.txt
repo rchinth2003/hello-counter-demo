@@ -1,0 +1,13 @@
+# Add project dependencies here, one per line
+# Example:
+# requests==2.31.0
+
+fastapi==0.129.2
+uvicorn==0.21.0
+pytest==9.0.2
+httpx==0.28.1
+azure-devops==7.1.0b4
+python-dotenv==1.2.1
+mcp==1.26.0
+mcp-azure-devops==0.6.0
+
