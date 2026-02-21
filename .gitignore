@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+env/
+venv/
+.venv/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# VSCode
+.vscode/
+
+# Docker
+*.env
